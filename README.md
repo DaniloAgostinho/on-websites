@@ -6,7 +6,7 @@
 
 
 ### Clone seu repositório
-Entre no local onde deseja clonar seu repositório e adicione a seguinte linda de comando no GitBash.
+Entre no local onde deseja clonar seu repositório e adicione a seguinte linha de comando no GitBash.
 
 <pre>
 git clone https://github.com/user/repository.git
